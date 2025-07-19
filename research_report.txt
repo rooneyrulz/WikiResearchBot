@@ -1,0 +1,5 @@
+--- Research Output ---
+Timestamp: 2025-07-19 19-08-19
+
+AI agents are software systems that use AI to pursue tasks autonomously. AI agents can encompass a wide range of functions beyond natural language processing including decision-making, problem-solving, interacting with external environments and performing actions. AI agents are autonomous intelligent systems performing specific tasks without human intervention. Organizations use AI agents to achieve specific goals and more efficient business outcomes. Business teams are more productive when they delegate repetitive tasks to AI agents.
+
